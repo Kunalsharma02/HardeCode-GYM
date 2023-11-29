@@ -7,10 +7,10 @@ Programming languages: HTML & CSS, JAVA SCRPIT, bootstrap (for Front End Develop
 Software: Vs Code, Font awesome, Google Font, web development tools.
 
 # System Architecture
-HTML, CSS, JavaScript: Used for structuring content, styling, and providing interactivity on the client side.
-Browser: Renders the HTML, applies styles with CSS, and executes JavaScript for dynamic behavior.
-The client (web browser) sends HTTP requests to the server for different resources (HTML, CSS, images).
-The server processes these requests and responds with the corresponding files.
-The client renders the received HTML, applies styles, and executes scripts for a dynamic user interface.
-![image](https://github.com/Kunalsharma02/HardeCode-GYM/assets/92158197/ad7204d9-62c8-4ef1-9cbd-7c7127b3d2b8)
+*HTML, CSS, JavaScript: Used for structuring content, styling, and providing interactivity on the client side.
+*Browser: Renders the HTML, applies styles with CSS, and executes JavaScript for dynamic behavior.
+*The client (web browser) sends HTTP requests to the server for different resources (HTML, CSS, images).
+*The server processes these requests and responds with the corresponding files.
+*The client renders the received HTML, applies styles, and executes scripts for a dynamic user interface.
+
 
