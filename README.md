@@ -27,8 +27,9 @@ The client renders the received HTML, applies styles, and executes scripts for a
 3. Reporting and Analytics
 4. Billing and Payments
 
-#Conclusion
+# Conclusion
 A GYM management system is a valuable and comprehensive solution designed to enhance the efficiency of fitness facilities, improve the experience for members, and contribute to the overall success of their fitness goals. The project's scope can encompass various features and functionalities to meet the specific needs and goals of the gym. Here are the key takeaways for a gym management system project:
+
 Efficient Operations
 Improved Member Experience
 Member Retention and Satisfaction
