@@ -14,13 +14,13 @@ Software: Vs Code, Font awesome, Google Font, web development tools.
 5. The client renders the received HTML, applies styles, and executes scripts for a dynamic user interface.
 
 # Code snippets or Screenshot
-![Screenshot 2023-11-28 213931](https://github.com/Kunalsharma02/HardeCode-GYM/assets/92158197/13c2d46a-170f-4d77-99ae-5a246d9b20c9)
-![Screenshot 2023-11-28 213855](https://github.com/Kunalsharma02/HardeCode-GYM/assets/92158197/fe6bcf7e-48d1-440e-b8c5-86cbfc41d0b1)
-![Screenshot 2023-11-28 213421](https://github.com/Kunalsharma02/HardeCode-GYM/assets/92158197/0bd46a57-551c-468d-8651-bd491ca5789a)
-![Screenshot 2023-11-28 213215](https://github.com/Kunalsharma02/HardeCode-GYM/assets/92158197/e9d096ec-371d-4818-b8a2-6fa4661de8f8)
-![Screenshot 2023-11-28 213143](https://github.com/Kunalsharma02/HardeCode-GYM/assets/92158197/32003840-4713-4549-a8ec-5f40f2c36d94)
-![Screenshot 2023-11-28 213057](https://github.com/Kunalsharma02/HardeCode-GYM/assets/92158197/71eaf81c-5940-4a2d-a34a-881fd0d0d7cb)
 ![Screenshot 2023-11-28 213018](https://github.com/Kunalsharma02/HardeCode-GYM/assets/92158197/6074adb7-1314-4cbe-98dd-222f59fef18e)
+![Screenshot 2023-11-28 213057](https://github.com/Kunalsharma02/HardeCode-GYM/assets/92158197/71eaf81c-5940-4a2d-a34a-881fd0d0d7cb)
+![Screenshot 2023-11-28 213143](https://github.com/Kunalsharma02/HardeCode-GYM/assets/92158197/32003840-4713-4549-a8ec-5f40f2c36d94)
+![Screenshot 2023-11-28 213215](https://github.com/Kunalsharma02/HardeCode-GYM/assets/92158197/e9d096ec-371d-4818-b8a2-6fa4661de8f8)
+![Screenshot 2023-11-28 213421](https://github.com/Kunalsharma02/HardeCode-GYM/assets/92158197/0bd46a57-551c-468d-8651-bd491ca5789a)
+![Screenshot 2023-11-28 213855](https://github.com/Kunalsharma02/HardeCode-GYM/assets/92158197/fe6bcf7e-48d1-440e-b8c5-86cbfc41d0b1)
+![Screenshot 2023-11-28 213931](https://github.com/Kunalsharma02/HardeCode-GYM/assets/92158197/13c2d46a-170f-4d77-99ae-5a246d9b20c9)
 
 # Features
 1. Member Management
