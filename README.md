@@ -1,7 +1,7 @@
 # HardeCode-GYM
 The objective of the project is to make a management system which allows the user to register themselves for their fitness goals. As it helps them in tracking their day to day task which will help them in achieving their fitness goals. 
 # Live website Link
-hardcodegym.netlify.app
+[hardcodegym.netlify.app](https://hardcodegym.netlify.app)
 
 # Methodology
 The project will employ the following methodologies, tools, and technologies:
